@@ -1,0 +1,11 @@
+{
+    "autodeskProduct": "Fusion",
+    "type": "addin",
+    "id": "F5DE2A88-7F1C-4E49-B684-F25B2FD3EF55",
+    "author": "fcobcn",
+    "description": "Creates parametric geodesic spheres (Buckminster domes)",
+    "version": "1.0.0",
+    "runOnStartup": false,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
